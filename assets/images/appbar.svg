@@ -1,0 +1,29 @@
+<svg width="390" height="72" viewBox="0 0 390 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="390" height="72" fill="#30469C"/>
+<g opacity="0.22">
+<circle cx="32.4302" cy="9.62868" r="1.62868" transform="rotate(90 32.4302 9.62868)" fill="#607CEB"/>
+<circle cx="24.8297" cy="9.62868" r="1.62868" transform="rotate(90 24.8297 9.62868)" fill="#607CEB"/>
+<circle cx="17.229" cy="9.62868" r="1.62868" transform="rotate(90 17.229 9.62868)" fill="#607CEB"/>
+<circle cx="9.62864" cy="9.62868" r="1.62868" transform="rotate(90 9.62864 9.62868)" fill="#607CEB"/>
+<circle cx="32.4302" cy="17.2293" r="1.62868" transform="rotate(90 32.4302 17.2293)" fill="#607CEB"/>
+<circle cx="24.8297" cy="17.2293" r="1.62868" transform="rotate(90 24.8297 17.2293)" fill="#607CEB"/>
+<circle cx="17.229" cy="17.2293" r="1.62868" transform="rotate(90 17.229 17.2293)" fill="#607CEB"/>
+<circle cx="9.62852" cy="17.2293" r="1.62868" transform="rotate(90 9.62852 17.2293)" fill="#607CEB"/>
+<circle cx="32.4302" cy="24.8299" r="1.62868" transform="rotate(90 32.4302 24.8299)" fill="#607CEB"/>
+<circle cx="24.8297" cy="24.8299" r="1.62868" transform="rotate(90 24.8297 24.8299)" fill="#607CEB"/>
+<circle cx="17.229" cy="24.8299" r="1.62868" transform="rotate(90 17.229 24.8299)" fill="#607CEB"/>
+<circle cx="9.62852" cy="24.8299" r="1.62868" transform="rotate(90 9.62852 24.8299)" fill="#607CEB"/>
+</g>
+<mask id="mask0_301_573" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="149" y="0" width="161" height="55">
+<rect x="149" width="161" height="55" fill="#943838"/>
+</mask>
+<g mask="url(#mask0_301_573)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M230 44C265.346 44 294 15.3462 294 -20C294 -55.3462 265.346 -84 230 -84C194.654 -84 166 -55.3462 166 -20C166 15.3462 194.654 44 230 44ZM230 25.913C255.357 25.913 275.913 5.35708 275.913 -20C275.913 -45.3571 255.357 -65.913 230 -65.913C204.643 -65.913 184.087 -45.3571 184.087 -20C184.087 5.35708 204.643 25.913 230 25.913Z" fill="#3B52AD"/>
+</g>
+<mask id="mask1_301_573" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="295" y="0" width="95" height="72">
+<rect x="295" width="95" height="72" fill="#30469C"/>
+</mask>
+<g mask="url(#mask1_301_573)">
+<path d="M333.753 61.4869C322.291 54.8697 318.364 40.2141 324.982 28.7527C331.599 17.2913 346.254 13.3643 357.716 19.9815L499.059 101.586L475.095 143.091L333.753 61.4869Z" fill="#3B52AD"/>
+</g>
+</svg>

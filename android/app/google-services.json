@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "140116838249",
+    "project_id": "darain-travels",
+    "storage_bucket": "darain-travels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140116838249:android:d70913aed5d0329d0b5ff8",
+        "android_client_info": {
+          "package_name": "com.graz.darain_travels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140116838249-hgvghloim6cs0qa50dg3bugg25vs0p98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.graz.darain_travels",
+            "certificate_hash": "a435c3f0c40b3b90ff36f1d6ce4038a0b1406d48"
+          }
+        },
+        {
+          "client_id": "140116838249-agqauoa9rb0b61tn7oies522m2manhea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Nlsj9cyrmgYL9s_9yIC_HAe3K5iAf4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140116838249-agqauoa9rb0b61tn7oies522m2manhea.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140116838249-lal2qfg8lb46h2c1ktc5ndtsps5ol74e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.graz.darainTravels"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
